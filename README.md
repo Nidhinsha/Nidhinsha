@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
- 🎈   I'm currently working on Brototype as an intern<br>🎯   I'm looking to collaborate on MERN projects.<br>🌟   I’m interested in Full Stack Web Development(MERN)<br>🏆   I completed my bachelor's degree in Electronics...<br> ♻   I'm currently learning React Js<br>🏠   I'm based in India
+ 🎈   I'm currently working on Brototype as an intern<br>🎯   I'm looking to collaborate on MERN projects.<br>🌟   I’m interested in Full Stack Web Development(MERN)<br>🏆   I completed my bachelor's degree in Electronics...<br> ♻   I'm currently learning Microservice<br>🏠   I'm based in India
 
 
 ## 🌐 Socials:
